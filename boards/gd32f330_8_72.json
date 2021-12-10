@@ -12,7 +12,7 @@
         ],
         "mcu": "gd32f330k8u6",
         "product_line": "GD32F330x8",
-        "variant": "GD32F330-8-72",
+        "variant": "GD32F330_8_72",
         "spl_series": "GD32F3x0",
         "series": "GD32F330"
     },
