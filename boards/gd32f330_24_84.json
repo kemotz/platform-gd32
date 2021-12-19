@@ -3,7 +3,7 @@
         "core": "gd32",
         "cpu": "cortex-m4",
         "extra_flags": "-DGD32F330x8 -DGD32F3 -DGD32F3x0 -DGD32F330",
-        "f_cpu": "72000000L",
+        "f_cpu": "84000000L",
         "hwids": [
             [
                 "0x28E9",
@@ -12,7 +12,7 @@
         ],
         "mcu": "gd32f330k8u6",
         "product_line": "GD32F330x8",
-        "variant": "GD32F330_8_72",
+        "variant": "GD32F330_24_84",
         "spl_series": "GD32F3x0",
         "series": "GD32F330"
     },
